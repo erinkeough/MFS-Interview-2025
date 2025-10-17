@@ -1,0 +1,48 @@
+Feature,Importance
+JobRole_Research Director,1.0969927762361709
+JobRole_Laboratory Technician,0.995402785803229
+OverTime_No,0.9513131285947838
+OverTime_Yes,0.9480734537285246
+BusinessTravel_Travel_Frequently,0.9404582282919264
+BusinessTravel_Non-Travel,0.9050222590398825
+OverallSatisfaction,0.861423950956449
+YearsSinceLastPromotion,0.7585120312982838
+EducationField_Human Resources,0.691850589564079
+EducationField_Other,0.6655896727761142
+JobRole_Sales Representative,0.6505379528143377
+TotalWorkingYears,0.6026669969586723
+Income_Medium,0.5418262043571785
+MaritalStatus_Single,0.5335024568267333
+NumCompaniesWorked,0.5067413184737385
+JobRole_Healthcare Representative,0.5022320692995107
+DistanceFromHome,0.4046697996236576
+Age,0.38392069720855787
+Income_Low,0.3651567739532192
+EducationField_Technical Degree,0.32593446013462773
+YearsWithCurrManager,0.3257813518389204
+YearsInCurrentRole,0.3239412513415625
+JobRole_Research Scientist,0.32277960286276647
+MaritalStatus_Divorced,0.3179154078619061
+JobRole_Human Resources,0.31101895641693705
+EducationField_Medical,0.30168189886798447
+Department_Sales,0.29894424388752966
+Department_Research & Development,0.2948764326190317
+StockOptionLevel,0.28754123396582804
+MaritalStatus_Married,0.21882672383108545
+JobRole_Sales Executive,0.20837695888076171
+PromotionRatio,0.20238989163762192
+EducationField_Life Sciences,0.1869852874090523
+Income_High,0.17342975553770104
+Gender_Female,0.1691138923566806
+Gender_Male,0.16587421749042347
+JobRole_Manager,0.1656860688618962
+TrainingTimesLastYear,0.1608848865383658
+EducationField_Marketing,0.13323213448818585
+PercentSalaryHike,0.10513955459666684
+JobLevel,0.09667783257548554
+JobRole_Manufacturing Director,0.08088581152117669
+PerformanceRating,0.05576168096436619
+Education,0.03896427420077221
+BusinessTravel_Travel_Rarely,0.03867564411830306
+Department_Human Resources,0.0073074861347571605
+YearsAtCompany,0.0012478148112124753
